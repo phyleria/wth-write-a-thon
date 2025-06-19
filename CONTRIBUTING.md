@@ -55,7 +55,7 @@ git push origin your-name-submission
 
 ### 5. Create a Pull Request
 - Go to the original repository and click “Compare & Pull Request”.
-- Include a short summary of your pull request.
+- Include a summary of your pull request.
 
 ## Writing Guidelines
 - Use simple, beginner-friendly language.
@@ -64,11 +64,9 @@ git push origin your-name-submission
 - Use proper markdown headers, lists, and code formatting.
 
 ## Submission Deadline
-All contributions must be submitted by **July 19th, 2025**.
+All contributions must be submitted by **July 18th, 2025**.
 
 ## After Submission
-Once your PR is merged:
-- Fill the submission form [here](https://forms.gle/SRYd5CDprZpPyzkn7).
 - Join the [WriteTechHub Slack community](https://writetechhub.org/our-community/) for updates and announcements.
 
 ## Need Help?
