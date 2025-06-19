@@ -35,7 +35,7 @@ git checkout -b your-name-submission
 ```
 
 ### 3. Add Your Deliverables
-Inside the repository, create a folder using your the name you registered with.
+Inside the repository, create a folder using the name you registered with.
 
 ```
 /your-name/
@@ -69,9 +69,9 @@ All contributions must be submitted by **July 19th, 2025**.
 ## After Submission
 Once your PR is merged:
 - Fill the submission form [here](https://forms.gle/SRYd5CDprZpPyzkn7).
-- Join the WriteTechHub Slack community for updates and announcements.
+- Join the [WriteTechHub Slack community](https://writetechhub.org/our-community/) for updates and announcements.
 
 ## Need Help?
 Reach out in the Slack community
 
-Happy writing, and good luck!
+*Happy writing, and good luck!*
