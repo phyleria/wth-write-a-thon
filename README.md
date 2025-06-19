@@ -46,39 +46,11 @@ Select **one** of the following Chimoney API endpoints to focus on:
 - Once your submission is in, sit back and wait!  
 - All updates, reviews, and winner announcements will be shared via the **Slack** community.
 
-## Important Dates
-
-| Date       | Milestone                                                                 |
-|------------|---------------------------------------------------------------------------|
-| June 30th  | Challenge announcement and sign-up open                                   |
-| July 1st   | Kickoff call (Live session with Chimoney + WriteTech Hub + DevRel Africa) |
-| July 9th   | Mid-challenge check-in (AMA session)                                      |
-| July 19th  | Submission deadline                                                       |
-| July 30th  | Winners announcement and highlights post                                  |
-
-## Rewards & Recognition
-
-### Top Contributors Receive:
-- **$35 USD** cash reward for the top 3 contributors  
-- Feature placement on **WriteTech Hub** and **Chimoney's** blog & social media platforms 
-
-### All Complete Submissions Receive:
-- Certificate of Participation  
-- Community recognition and networking opportunities  
-
 ## Essential Resources
 
 - [Chimoney API Documentation](https://chimoney.readme.io/reference/introduction)  
-- WriteTechHub Community  
-- [Submission Form](https://forms.gle/SRYd5CDprZpPyzkn7)
-
-## Relevant Tips
-
-- **Quality over quantity**: Create well-researched, detailed content  
-- **Real-world relevance**: Pick use cases that solve actual problems  
-- **Clear communication**: Write for developers new to the Chimoney API  
-- **Stay engaged**: Join the community for support and feedback  
-
+- [WriteTechHub Community](https://writetechhub.org/our-community/)  
+- [Submission Form](https://forms.gle/SRYd5CDprZpPyzkn7) 
 
 *Ready to showcase your technical writing skills and contribute to Africa's growing tech ecosystem?* 
 *Join us in the **Docs for Devs Writing Challenge!***
