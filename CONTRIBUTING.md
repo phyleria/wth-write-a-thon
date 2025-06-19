@@ -1,6 +1,6 @@
-# Contributing to the Write-A-Ton Writing Challenge
+# Contributing to the Write-A-Thon Writing Challenge
 
-Thank you for your interest in contributing to the **WTH Write-A-Ton Writing Challenge** organized by [WriteTech Hub](https://writetechhub.org/) and [Chimoney](https://chimoney.io/) and supported by [DevRel Community Africa!](https://devrelcomafrica.xyz/)
+Thank you for your interest in contributing to the **WTH Write-A-Thon Writing Challenge** organized by [WriteTech Hub](https://writetechhub.org/) and [Chimoney](https://chimoney.io/) and supported by [DevRel Community Africa!](https://devrelcomafrica.xyz/)
 
 We’re excited to have you here. To keep everything organized and helpful to the community, please follow these contribution guidelines.
 
