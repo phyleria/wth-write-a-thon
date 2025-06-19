@@ -40,6 +40,8 @@ Select **one** of the following Chimoney API endpoints to focus on:
 ### Step 5: Submit Your Documentation
 
 - Submit your entry using the [challenge submission form](https://forms.gle/SRYd5CDprZpPyzkn7).
+  
+The deadline for all submissions is **July 18th, 2025**
 
 ### Step 6: Stay Tuned
 
