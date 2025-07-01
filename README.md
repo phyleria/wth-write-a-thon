@@ -6,23 +6,23 @@ WTH Write-A-Thon is a technical writing challenge designed to help writers grow 
 
 Our mission is to help technical writers level up, build strong portfolios, and contribute to developer ecosystems through hands-on challenges.
 
-## 🧩 How It Works
+## How it works
 
 - Each edition focuses on a specific content type (e.g., tutorials, guides, articles)
 - Participants are given prompts, tools, or APIs to write about
 - Submissions are reviewed and scored by expert reviewers
 - Top contributors receive recognition and rewards
 
-## 🎯 Who It’s For
+## Who it’s for
 
 - Aspiring and intermediate technical writers
 - Developers transitioning into documentation
 - Writers looking to build their public portfolio
 - Community contributors in open source or DevRel
 
-## 📚 Editions
+## Editions
 
-### ✅ [Edition 1 – Chimoney](editions/01-chimoney/README.md)
+### [Edition 1 – Chimoney](editions/01-chimoney/README.md)
 - Theme: Real-world API Content
 - Focus: Use Case Article, Tutorial Guide, Setup Guide
 - Partner: Chimoney
@@ -30,14 +30,14 @@ Our mission is to help technical writers level up, build strong portfolios, and 
 
 > Visit the [Chimoney Edition folder](editions/01-chimoney/) to participate, explore the guidelines, or view submissions.
 
-## 🤝 Want to Partner With Us?
+## Want to partner uith Us?
 
 We welcome partnerships with organizations interested in empowering the next generation of technical writers. If you're building an API, platform, or tool — let's work together.
 
 📧 Contact: socials@writetechhub.org  
 🌐 Website: [https://writetechhub.org](https://writetechhub.org)
 
-## 📄 Repository Structure
+## Repository structure
 
 ```
 wth-write-a-thon/
@@ -46,7 +46,7 @@ wth-write-a-thon/
 │   └── 01-chimoney/ # First edition with Chimoney
 ```
 
-## 🙌 Join the Community
+## Join the community
 
 To participate in any edition, you must be a member of the WriteTech Hub community:  
 👉 [https://writetechhub.org/community](https://writetechhub.org/community)

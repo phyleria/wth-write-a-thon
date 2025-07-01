@@ -1,8 +1,8 @@
-# 🧑‍⚖️ Reviewer Guidelines
+# Reviewer Guidelines
 
 Thank you for supporting the Chimoney Write-a-Ton Challenge as a reviewer! This guide walks you through how to review participant submissions and what to look for in each deliverable.
 
-## 🎯 Your Role
+## Your role
 
 As a reviewer, you’ll:
 
@@ -12,7 +12,7 @@ As a reviewer, you’ll:
 - Approve the PR if all deliverables are complete
 - Log your review in the shared scoring sheet
 
-## 🧾 What to Review
+## What to review
 
 Each submission will be in the `submissions/` folder under a subfolder like:
 
@@ -25,31 +25,30 @@ Each submission will be in the `submissions/` folder under a subfolder like:
 
 Review all three files.
 
-### ✅ 1. Use Case Article (`use-case.md`)
+### 1. Use case article (`use-case.md`)
 
 - [ ] Is there a clear real-world use case described?
 - [ ] Is the problem and audience clearly defined?
 - [ ] Does it logically show how the API solves that problem?
 - [ ] Is it readable, relevant, and technically sound?
 
-### ✅ 2. Tutorial Guide (`tutorial.md`)
+### 2. Tutorial guide (`tutorial.md`)
 
 - [ ] Are the goals and steps clearly defined?
 - [ ] Is the example request accurate and tested?
 - [ ] Are responses and expected outcomes explained?
 - [ ] Is the tutorial easy to follow?
 
-### ✅ 3. Setup Guide (`setup.md`)
+### 3. Setup guide (`setup.md`)
 
 - [ ] Are the prerequisites clearly listed?
 - [ ] Is authentication explained with examples?
 - [ ] Can a new user follow this guide and make a successful API call?
 - [ ] Is troubleshooting or error handling included?
 
-## 🧮  Scoring
+## Scoring
 
 In the shared reviewer sheet, you’ll record:
-
 - Participant name
 - PR link
 - Score (1–10)
@@ -57,8 +56,8 @@ In the shared reviewer sheet, you’ll record:
 
 You only need to approve the PR if it's complete and clear. If not, comment with required changes.
 
-## 💡 Tips
+## Tips
 
 - Be kind, constructive, and specific
-- You don’t need to be a subject-matter expert — just a clear reader and technical communicator
+- You don’t need to be a subject-matter expert, just a clear reader and technical communicator
 - If unsure, ask the WriteTech Hub team before rejecting a submission.

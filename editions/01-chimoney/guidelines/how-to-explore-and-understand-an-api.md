@@ -1,10 +1,10 @@
 # 🔍 How to Explore and Understand an API
 
-Before writing technical content about an API—whether a use case, tutorial, or setup guide—you need to understand how the API works.
+Before writing technical content about an API—whether a use case, tutorial, or setup guide, you need to understand how the API works.
 
 This guide will help you explore a public API endpoint confidently and extract the insights you need to create clear, accurate, and developer-friendly content.
 
-## 🧭 1. Understand the Goal of the API Endpoint
+## 1. Understand the goal of the API endpoint
 
 Start by answering these questions:
 
@@ -14,7 +14,7 @@ Start by answering these questions:
 
 **Tip:** Look for real-life scenarios in fintech, gig work, e-commerce, or international transfers that match the API’s purpose.
 
-## 🛠 2. Read the Official Documentation
+## 2. Read the official documentation
 
 Go through the official Chimoney API docs for your selected endpoint. Focus on:
 
@@ -26,7 +26,7 @@ Go through the official Chimoney API docs for your selected endpoint. Focus on:
 
 Take notes on anything that is unclear or undocumented. You’ll either clarify it in your writing or note it as a limitation.
 
-## 🔄 3. Test the Endpoint Yourself
+## 3. Test the endpoint yourself
 
 Use tools like:
 
@@ -34,7 +34,7 @@ Use tools like:
 - [Hoppscotch](https://hoppscotch.io/)
 - Terminal with `curl`
 
-### When Testing:
+### When testing:
 | Step | What to Check |
 |------|---------------|
 | Authentication | Do you need to pass a token or key? |
@@ -44,7 +44,7 @@ Use tools like:
 
 **Tip:** Save your test results. You’ll reuse these in your tutorial or setup guide.
 
-## 📋 4. Identify Setup Requirements
+## 4. Identify setup requirements
 
 This is especially useful for writing your setup guide later.
 
@@ -58,7 +58,7 @@ Look for:
 
 Write down every prerequisite someone else would need before they can start using the endpoint.
 
-## ✍️ 5. Prepare Your Content Plan
+## 5. Prepare Your content plan
 
 Once you're familiar with the API:
 
@@ -66,7 +66,7 @@ Once you're familiar with the API:
 - Walk through your steps again to shape your **tutorial**
 - List and explain your setup process in a beginner-friendly **setup guide**
 
-## ✅ Quick Checklist
+## Quick checklist
 
 - [ ] I understand what this API endpoint does and who needs it
 - [ ] I have reviewed its required inputs and outputs

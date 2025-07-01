@@ -1,10 +1,10 @@
-# 🧠 How to Write a Use Case Article
+# How to Write a Use Case Article
 
 A use case article tells a story — it shows how a specific API can solve a real-world problem for a real user. This is not just about what the API does, but why it matters and how it can be applied.
 
 This guide walks you through writing a compelling and technically sound use case article.
 
-## 🧭 1. Define the Problem
+## 1. Define the problem
 
 Start with a relatable, real-world challenge. Help readers understand the context before the API comes into play.
 
@@ -14,10 +14,10 @@ Ask yourself:
 - What is their problem or goal?
 - Why is it hard to solve without this API?
 
-📌 Example:  
+Example:  
 > "Imagine you're building a gig economy app that pays freelance designers across multiple countries..."
 
-## 🔍 2. Introduce the API as the Solution
+## 2. Introduce the API as the solution
 
 Once the reader understands the problem, introduce the Chimoney API endpoint as the tool that solves it.
 
@@ -25,10 +25,10 @@ Once the reader understands the problem, introduce the Chimoney API endpoint as 
 - Highlight what it enables the user to do
 - Briefly mention how it works (you’ll dive deeper in your tutorial)
 
-📌 Example:  
+Example:  
 > "Using Chimoney’s `multi-currency wallet transfer` endpoint, we can send payments to workers in their local currencies — instantly."
 
-## 💡 3. Describe the Use Case in Detail
+## 3. Describe the use case in detail
 
 Be specific and grounded in a real-world flow:
 
@@ -38,13 +38,13 @@ Be specific and grounded in a real-world flow:
 
 Break it into short sections or bullet points if needed.
 
-📌 Example Outline:
+Example outline:
 - User submits payout request
 - Platform validates balance
 - Chimoney API is called with wallet and currency info
 - Payment confirmation is displayed
 
-## 🛠 4. Mention Supporting Features or Considerations
+## 4. Mention supporting features or considerations
 
 Show how the use case fits into a bigger picture:
 
@@ -52,15 +52,25 @@ Show how the use case fits into a bigger picture:
 - Is this use case scalable?
 - How does it improve the product or user experience?
 
-## 🧾 5. Optional: Visuals or Diagrams
+## 5. Optional: Visuals or diagrams
 
 If it helps, include a simple diagram or flowchart (Markdown, ASCII, or embed an image) showing the process.
 
-📌 Example:
+Example:
 
-User ➡️ App ➡️ Chimoney API ➡️ Payment Processed ➡️ Confirmation
+```
+[User] 
+   ↓
+[App]
+   ↓
+[Chimoney API]
+   ↓
+[Payment Processed]
+   ↓
+[Confirmation]
+```
 
-## ✅ Checklist Before You Submit
+## Checklist before you submit
 
 - [ ] I clearly explained the real-world problem
 - [ ] I introduced the API as a relevant solution
@@ -68,6 +78,6 @@ User ➡️ App ➡️ Chimoney API ➡️ Payment Processed ➡️ Confirmation
 - [ ] I made it easy to follow, even for someone new to the API
 - [ ] My article is structured, concise, and relevant
 
-## 💬 Final Tip
+## Final tip
 
 Avoid being too abstract. Think like a product builder or developer who needs to *see* how this API adds value in their project.

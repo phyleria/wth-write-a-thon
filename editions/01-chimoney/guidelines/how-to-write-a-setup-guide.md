@@ -1,10 +1,10 @@
-# ⚙️ How to Write a Setup Guide
+# How to Write a Setup Guide
 
-A setup guide helps new users get started with your selected Chimoney API endpoint — from authentication to making their first successful request. Think of this as a beginner-friendly onboarding experience for developers.
+A setup guide helps new users get started with your selected Chimoney API endpoint, from authentication to making their first successful request. Think of this as a beginner-friendly onboarding experience for developers.
 
 This guide walks you through how to write a clear, useful, and complete setup guide.
 
-## 🧭 1. Define What the User Will Set Up
+## 1. Define what the user will set up
 
 Start by introducing the goal of the setup guide.
 
@@ -12,7 +12,7 @@ Start by introducing the goal of the setup guide.
 
 > This guide will help you set up authentication and environment variables so you can successfully send a payout using Chimoney’s `multi-currency wallet transfer` endpoint.
 
-## 🧰 2. List All Prerequisites
+## 2. List all prerequisites
 
 Tell the user what they need before starting.
 
@@ -32,8 +32,10 @@ Use a clean bullet list in Markdown like this:
 - Postman or curl
 - A wallet address to test with
 ```
-## 🛠 3. Explain How to Set Up Authentication
+
+## 3. Explain how to set up authentication
 Clearly describe how the user should authenticate their API calls.
+
 **Example:**
 To authorize requests to the Chimoney API, include your API key in the header:
 
@@ -41,7 +43,7 @@ To authorize requests to the Chimoney API, include your API key in the header:
 `Authorization: Bearer YOUR_API_KEY`
 Show how to apply this header in a request tool (Postman, curl, etc.)
 
-## 🔗 4. Help Them Make a Test Call
+## 4. Help them make a test call
 
 Guide the reader through their first request using the endpoint.
 
@@ -49,7 +51,7 @@ Guide the reader through their first request using the endpoint.
 - List any required headers and request body
 - Provide a sample request and response
 
-### Example Request:
+### Example request:
 
 ```bash
 curl -X POST https://api.chimoney.io/v1/wallets/transfer \
@@ -61,24 +63,28 @@ curl -X POST https://api.chimoney.io/v1/wallets/transfer \
     "currency": "USD"
   }'
 ```
-## 🧪 5. Confirm a Successful Setup
+
+## 5. Confirm a successful setup
 Let users know what success looks like.
+
 **Example:**
 > If your setup is complete, you should receive a 200 OK response with a `transaction_id`.
 Also, explain what common errors may appear and how to fix them.
-## 🧯 6. Troubleshooting (Optional)
+
+## 6. Troubleshooting (Optional)
 You can include a brief section for common setup issues.
 **Example:**
 | Error | Cause | Fix |
 | ----- | ----- | --- |
 | 401 Unauthorized | Missing or invalid API key | Double-check the Authorization header |
 | 400 Bad Request | Invalid body format | Check that all required fields are included |
-## ✅ Setup Guide Checklist
+
+## Setup guide checklist
 - The setup goal is clearly explained
 - All prerequisites are listed
 - Authentication is described with examples
 - A full sample request is included
 - Success and error responses are explained
 
-## 💡 Final Tip
+## Final tip
 Make your guide easy to follow. Write it like you're helping someone set this up for the first time — because you are.

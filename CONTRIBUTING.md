@@ -1,8 +1,8 @@
-# 🤝 Contributing to the WriteTech Hub Write-A-Thon Challenge Series
+# Contributing to the WriteTech Hub Write-A-Thon Challenge Series
 
 Thank you for your interest in contributing to the Write-a-Ton Challenge, an initiative by WriteTech Hub (WTH) to help technical writers build real-world skills and portfolios.
 
-## 📌 Who Can Contribute?
+## Who can contribute?
 
 You can contribute to this repository by:
 
@@ -15,7 +15,7 @@ You can contribute to this repository by:
 To participate in any edition, you must be a member of the WriteTech Hub community:  
 👉 [https://writetechhub.org/community](https://writetechhub.org/community)
 
-## ✍️ How to Participate in an Edition
+## How to participate in an edition
 
 Each edition of the Write-A-Thon Challenge has its own folder under `editions/`.  
 Inside each folder, you’ll find:
@@ -25,9 +25,9 @@ Inside each folder, you’ll find:
 - Submission instructions and folder structure
 
 **Start here:**  
-👉 [Edition 01 – Chimoney](editions/01-chimoney/README.md)
+ [Edition 01 – Chimoney](editions/01-chimoney/README.md)
 
-## 💡 Want to Propose a New Edition?
+## Want to propose a new edition?
 
 We welcome collaboration with:
 
@@ -39,7 +39,7 @@ We welcome collaboration with:
 If you'd like to co-create a Write-A-Thon edition, email us at:  
 📧 **socials@writetechhub.org**
 
-## 🧑‍⚖️ Code of Conduct
+## Code of conduct
 
 All contributors are expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a welcoming environment for everyone.
 
