@@ -1,21 +1,29 @@
 ### 📝 Write-a-Ton Challenge Submission
 
 Thank you for participating in the Write-a-Ton API Writing Challenge!  
-Please complete the details below to help us track your submission.
+Please fill in the details below to help us track and review your submission.
+
+---
 
 **Full Name:**  
 <!-- Enter your full name -->
 
-#### Community Handles
+---
 
-*Discord Handle (Chimoney)
+### 👥 Community Handles
+
+**Discord Handle (Chimoney):**
 <!-- Enter your Chimoney community Discord handle (e.g., @zaycodes) -->
 
 **Slack Handle (WriteTech Hub):**  
 <!-- Enter your WriteTech Hub community Slack handle (e.g., @zaycodes) -->
 
+---
+
 **Chosen Endpoint:**  
 <!-- e.g., Create Interledger wallet address -->
+
+---
 
 ### ✅ Deliverables Checklist
 
@@ -25,10 +33,14 @@ Please confirm that you’ve included all required deliverables in your submissi
 - [ ] `tutorial.md`
 - [ ] `setup.md`
 
+---
+
 ### 🧑‍⚖️ Reviewer Tag
 
 Tag the reviewer here:  
 `@reviewer-username`
+
+---
 
 ### 🗒️ Notes (Optional)
 
