@@ -20,12 +20,10 @@ Please fill in the details below to help us track and review your submission.
 
 ---
 
+### ✅ Deliverables Checklist
+
 **Chosen Endpoint:**  
 <!-- e.g., Create Interledger wallet address -->
-
----
-
-### ✅ Deliverables Checklist
 
 Please confirm that you’ve included all required deliverables in your submission folder:
 
