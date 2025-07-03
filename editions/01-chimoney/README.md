@@ -93,7 +93,6 @@ To help you succeed:
 - Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV)
 - WriteTech Hub Community: [https://writetechhub.org/community](https://writetechhub.org/community)
 - Challenge Submission Form: Will be shared via the community forums.
-- Tutorial Video: Link will be shared soon.
 
 ## Tips for success
 
