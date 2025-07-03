@@ -1,6 +1,6 @@
 # Chimoney Write-a-Ton Writing Challenge
 
-Welcome to the **WTH Write-A-Ton Writing Challenge**, a collaboration between [**WriteTech Hub**](https;//writetechhub.org), [**Chimoney**](https://chimoney.io/), and [**DevRel Community Africa**](https://devrelcomafrica.xyz/).
+Welcome to the 1st edition of the [**WriteTech Hub**](https;//writetechhub.org) **Write-A-Ton Writing Challenge**, in partnership with [**Chimoney**](https://chimoney.io/) and [**DevRel Community Africa**](https://devrelcomafrica.xyz/).
 
 This challenge empowers aspiring and experienced tech writers to build real-world writing experience by documenting the Chimoney API through practical, developer-focused content.
 
