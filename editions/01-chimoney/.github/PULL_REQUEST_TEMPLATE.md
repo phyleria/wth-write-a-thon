@@ -46,4 +46,4 @@ If you had challenges, feedback, or anything you'd like the reviewer to know, ad
 
 <!-- You can delete this section if not needed -->
 
-🔗 **Don’t forget:** After opening this PR, complete the [submission form](#) shared in Slack to officially log your entry.
+🔗 **Don’t forget:** After opening this PR, complete the [submission form](#) to officially log your entry.
