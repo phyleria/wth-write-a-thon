@@ -5,12 +5,15 @@ This document outlines how to contribute your submission and what’s required t
 
 ## Who can participate?
 
-To take part in this challenge, you **must be a member of the WriteTech Hub community**.  
-If you're not yet a member, please join here: [https://writetechhub.org/community](https://writetechhub.org/community)
+To take part in this challenge, you **must be a member of the Chimoney community**.  
+If you're not yet a member, please join here: [https://discord.com/invite/TsyKnzT4qV](https://discord.com/invite/TsyKnzT4qV)
 
-Once registered, you’ll get access to our Slack workspace where we’ll share:
-- Update and resources
-- Support during the challenge
+Once you join the Discord community, you’ll get access to:
+- Challenge updates and announcements
+- Helpful resources
+- Technical support during the challenge
+
+We recommend also joining the [WriteTech Hub community](https://writetechhub.org/community). Being part of WriteTech Hub connects you with other technical writers, peer reviewers, and additional writing resources to help you excel in the challenge.
 
 ## What you’ll be submitting
 
@@ -85,6 +88,8 @@ A reviewer will:
 
 ## Need help?
 
-Join the Slack community via [https://writetechhub.org/community](https://writetechhub.org/community) and ask questions in the `#chimoney-write-a-ton` channel.
+For questions, support, and to connect with other participants, join the Chimoney community on Discord: [https://discord.com/invite/TsyKnzT4qV](https://discord.com/invite/TsyKnzT4qV).
+
+We also recommend joining the [WriteTech Hub community](https://writetechhub.org/community) for additional writing resources and peer support beyond this challenge.
 
 We’re here to support you!
