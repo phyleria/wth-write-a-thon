@@ -1,6 +1,6 @@
-# Chimoney Write-a-Ton Writing Challenge
+# Chimoney Write-a-Thon Writing Challenge
 
-Welcome to the 1st edition of the [**WriteTech Hub**](https;//writetechhub.org) **Write-A-Ton Writing Challenge**, in partnership with [**Chimoney**](https://chimoney.io/) and [**DevRel Community Africa**](https://devrelcomafrica.xyz/).
+Welcome to the 1st edition of the [**WriteTech Hub**](https;//writetechhub.org) **Write-A-Thon Writing Challenge**, in partnership with [**Chimoney**](https://chimoney.io/) and [**DevRel Community Africa**](https://devrelcomafrica.xyz/).
 
 This challenge empowers aspiring and experienced tech writers to build real-world writing experience by documenting the Chimoney API through practical, developer-focused content.
 
@@ -101,4 +101,4 @@ To help you succeed:
 - **Beginner-Friendly**: Assume readers are new to Chimoney
 - **Engage the Community**: Use Slack to ask questions and get feedback
 
-Ready to showcase your technical writing skills and contribute to Africa's growing tech ecosystem? Join us in the Write-A-Ton Writing Challenge!
+Ready to showcase your technical writing skills and contribute to Africa's growing tech ecosystem? Join us in the Write-A-Thon Writing Challenge!
