@@ -6,8 +6,13 @@ Please complete the details below to help us track your submission.
 **Full Name:**  
 <!-- Enter your full name -->
 
-**Slack Handle:**  
-<!-- Enter your community Slack handle (e.g., @zaycodes) -->
+#### Community Handles
+
+*Discord Handle (Chimoney)
+<!-- Enter your Chimoney community Discord handle (e.g., @zaycodes) -->
+
+**Slack Handle (WriteTech Hub):**  
+<!-- Enter your WriteTech Hub community Slack handle (e.g., @zaycodes) -->
 
 **Chosen Endpoint:**  
 <!-- e.g., Create Interledger wallet address -->
