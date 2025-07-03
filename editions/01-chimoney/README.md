@@ -1,13 +1,14 @@
 # Chimoney Write-a-Ton Writing Challenge
 
-Welcome to the **WTH Write-A-Ton Writing Challenge**, a collaboration between **WriteTech Hub**, **Chimoney**, and **DevRel Community Africa**.
+Welcome to the **WTH Write-A-Ton Writing Challenge**, a collaboration between [**WriteTech Hub**](https;//writetechhub.org), [**Chimoney**](https://chimoney.io/), and [**DevRel Community Africa**](https://devrelcomafrica.xyz/).
 
 This challenge empowers aspiring and experienced tech writers to build real-world writing experience by documenting the Chimoney API through practical, developer-focused content.
 
 ## How to participate
 
 ### Step 1: Indicate interest
-- Register [here](https://lu.ma/5nb4g52q) to officially indicate interest in the challenge and receive weekly updates.
+- Register [here](#) to officially indicate interest in the challenge and receive weekly updates.
+- Join the Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV)
 - Join the WriteTech Hub community: [https://writetechhub.org/community](https://writetechhub.org/community)
 
 ### Step 2: Choose your API endpoint
@@ -65,19 +66,14 @@ submissions/
 - Fill out the Pull Request template and tag your reviewer
 
 ### Step 5: Submit the final form
-- Submit all three deliverables via this submission form that will be shared on Slack.
+- Submit all three deliverables via this [submission form](#).
 
 ### Step 6: Stay tuned
-- All updates, reviews, and winner announcements will be shared via the Slack community.
+- All updates, reviews, and winner announcements will be shared via the community forums.
 
-## Rewards & recognition
-
-### Top 3 contributors
-- $35 USD cash reward
-- Featured on WriteTech Hub + Chimoney blogs and social media
-
-### All complete submissions
-- Certificate of Participation
+## Rewards
+- $35 USD cash reward for top 3 contributors
+- Top 3 contributors Featured on WriteTech Hub + Chimoney blogs and social media
 - Community recognition and networking opportunities
 
 ## Challenge docs & guidelines
@@ -94,8 +90,9 @@ To help you succeed:
 ## Useful resources
 
 - Chimoney API Docs: [API Docs](https://chimoney.readme.io/reference/introduction)
+- Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV)
 - WriteTech Hub Community: [https://writetechhub.org/community](https://writetechhub.org/community)
-- Challenge Submission Form: Will be shared via Slack.
+- Challenge Submission Form: Will be shared via the community forums.
 - Tutorial Video: Link will be shared soon.
 
 ## Tips for success
