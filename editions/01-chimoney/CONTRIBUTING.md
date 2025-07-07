@@ -69,7 +69,7 @@ Use plain Markdown syntax. No PDFs, HTML, or Word documents.
 - Push your changes to your forked repo
 - Go to the original repository and open a PR to the `main` branch
 - Fill in the provided Pull Request template
-- Tag your assigned reviewer (this will be shared with you in Slack)
+- Tag the following reviewers: @Phyleria
 
 ### 5. Submit the final form
 
