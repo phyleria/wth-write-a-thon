@@ -57,13 +57,13 @@ submissions/
 ## Submission steps
 
 ### Step 4: Upload your work on GitHub
-- Fork this repository
-- Create a new branch:  
+1. Fork this repository
+1. Create a new branch:  
   Format: `[endpoint]-[your-slackhandle]`  
   Example: `wallet-funmiwrites`
-- Add your folder and three Markdown files inside `submissions/`
-- Open a Pull Request to the `main` branch
-- Fill out the Pull Request template and tag your reviewer
+1. Add your folder and three Markdown files inside `submissions/`
+1. Open a Pull Request to the `main` branch
+1. Fill out the Pull Request template and tag the following reviewers: @Phyleria
 
 ### Step 5: Submit the final form
 - Submit all three deliverables via this [submission form](#).
