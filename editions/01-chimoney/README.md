@@ -4,6 +4,21 @@ Welcome to the 1st edition of the [**WriteTech Hub**](https;//writetechhub.org) 
 
 This challenge empowers aspiring and experienced tech writers to build real-world writing experience by documenting the Chimoney API through practical, developer-focused content.
 
+## 🗓️ Important Dates
+
+| Date       | Milestone                                             |
+|------------|-------------------------------------------------------|
+| July 10    | Challenge Kickoff call (with Chimoney + WTH)          |
+| July 22    | Mid-challenge AMA session                             |
+| July 31    | Submission deadline                                   |
+| August 7   | Winners announced                                     |
+
+
+## Rewards
+- $35 USD cash reward for top 3 contributors
+- Top 3 contributors Featured on WriteTech Hub + Chimoney blogs and social media
+- Community recognition and networking opportunities
+
 ## How to participate
 
 ### Step 1: Register and join the community
@@ -70,11 +85,6 @@ submissions/
 
 ### Step 6: Stay tuned
 - All updates, reviews, and winner announcements will be shared via the community forums.
-
-## Rewards
-- $35 USD cash reward for top 3 contributors
-- Top 3 contributors Featured on WriteTech Hub + Chimoney blogs and social media
-- Community recognition and networking opportunities
 
 ## Challenge docs & guidelines
 
