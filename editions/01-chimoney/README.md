@@ -6,9 +6,9 @@ This challenge empowers aspiring and experienced tech writers to build real-worl
 
 ## How to participate
 
-### Step 1: Indicate interest
-- Register [here](#) to officially indicate interest in the challenge and receive weekly updates.
-- Join the Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV)
+### Step 1: Register and join the community
+- Register [here](https://oruly.ai/challenge/write-a-thon_challenge) to participate in the challenge.
+- (Required) Join the Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV) to get updates and support.
 - Join the WriteTech Hub community: [https://writetechhub.org/community](https://writetechhub.org/community)
 
 ### Step 2: Choose your API endpoint
@@ -90,8 +90,8 @@ To help you succeed:
 ## Useful resources
 
 - Chimoney API Docs: [API Docs](https://chimoney.readme.io/reference/introduction)
-- Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV)
-- WriteTech Hub Community: [https://writetechhub.org/community](https://writetechhub.org/community)
+- Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV) `#wth-x-chimoney` channel
+- WriteTech Hub Community: [https://writetechhub.org/community](https://writetechhub.org/community).
 - Challenge Submission Form: Will be shared via the community forums.
 
 ## Tips for success
