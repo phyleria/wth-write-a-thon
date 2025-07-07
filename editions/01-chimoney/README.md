@@ -100,7 +100,7 @@ To help you succeed:
 ## Useful resources
 
 - Chimoney API Docs: [API Docs](https://chimoney.readme.io/reference/introduction)
-- Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV) `#wth-x-chimoney` channel
+- Chimoney Community: [https://discord.gg/TsyKnzT4qV](https://discord.gg/TsyKnzT4qV), `#wth-x-chimoney` channel
 - WriteTech Hub Community: [https://writetechhub.org/community](https://writetechhub.org/community).
 - Challenge Submission Form: Will be shared via the community forums.
 
