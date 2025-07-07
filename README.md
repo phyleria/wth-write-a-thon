@@ -26,7 +26,7 @@ Our mission is to help technical writers level up, build strong portfolios, and 
 - Theme: Real-world API Content
 - Focus: Use Case Article, Tutorial Guide, Setup Guide
 - Partner: Chimoney
-- Status: **Live**
+- Status: **Live** 🟢
 
 > Visit the [Chimoney Edition folder](editions/01-chimoney/) to participate, explore the guidelines, or view submissions.
 
