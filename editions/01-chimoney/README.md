@@ -78,7 +78,7 @@ submissions/
   Example: `wallet-funmiwrites`
 1. Add your folder and three Markdown files inside `submissions/`
 1. Open a Pull Request to the `main` branch
-1. Fill out the Pull Request template and tag the following reviewers: @Phyleria
+1. Fill out the Pull Request template and tag the following reviewers: @Phyleria, @adebayoileri
 
 ### Step 5: Submit the final form
 - Submit all three deliverables via this [submission form](#).
