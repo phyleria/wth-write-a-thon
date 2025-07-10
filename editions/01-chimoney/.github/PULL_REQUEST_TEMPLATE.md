@@ -35,8 +35,8 @@ Please confirm that you’ve included all required deliverables in your submissi
 
 ### 🧑‍⚖️ Reviewer Tag
 
-Tag the reviewer here:  
-`@reviewer-username`
+Add the following reviewers to your:  
+`@Phyleria` `@adebayoileri`
 
 ---
 
